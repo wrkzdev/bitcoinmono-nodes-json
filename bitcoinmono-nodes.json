@@ -2,7 +2,7 @@
   "nodes": [
    {
       "name": "Bot.Tips Blockchain Cache",
-      "url": "btcm.bot.tips",
+      "url": "btcmz.bot.tips",
       "port": 80,
       "ssl": false,
       "cache": true
