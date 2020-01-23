@@ -1,0 +1,32 @@
+{
+  "nodes": [
+   {
+      "name": "Bot.Tips Blockchain Cache",
+      "url": "btcm.bot.tips",
+      "port": 80,
+      "ssl": false,
+      "cache": true
+    },
+   {
+      "name": "Bot.Tips Blockchain Cache - SSL",
+      "url": "btcmz.bot.tips",
+      "port": 443,
+      "ssl": true,
+      "cache": true
+    },
+   {
+      "name": "dev France",
+      "url": "remote.bitcoinmono.io",
+      "port": 11358,
+      "ssl": false,
+      "cache": false
+    },
+   {
+      "name": "SolFly (FastPooL.XyZ)",
+      "url": "fastpool.xyz",
+      "port": 11358,
+      "ssl": false,
+      "cache": false
+    }
+  ]
+}
