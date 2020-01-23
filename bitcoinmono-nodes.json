@@ -23,7 +23,7 @@
     },
    {
       "name": "SolFly (FastPooL.XyZ)",
-      "url": "fastpool.xyz",
+      "url": "note.fastpool.xyz",
       "port": 11358,
       "ssl": false,
       "cache": false
